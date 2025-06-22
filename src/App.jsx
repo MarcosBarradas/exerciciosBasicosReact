@@ -17,7 +17,7 @@ function App() {
   return (
     <>
       <Hello/>
-      <Ola nome="Canalha"/>
+      <Ola nome="Amigo"/>
       <Autenticado autenticado={true}/>
       <VerificaIdade idade={17}/>
       <VerificaEstudante estuda={false}/>
